@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/asresea1/Documents/Aalto/SVN/leone/papers'
+let g:netrw_dirhist_2='/Users/asresea1/Documents/papers/working-papers'
+let g:netrw_dirhist_3='/Users/asresea1/Documents/papers/working-papers/2017-tnsm-webperf'
+let g:netrw_dirhist_4='/Users/asresea1/Documents/papers/working-papers/2017-qos-webqoe/paper/text'
